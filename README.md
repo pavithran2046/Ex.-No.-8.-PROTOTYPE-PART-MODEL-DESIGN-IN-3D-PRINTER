@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/pavithran2046/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139334834/37cc57d9-1901-4fc7-af3b-d5ec59eda9a5)
 
-### Name:
-### Register Number:
+
+### Name: Pavithran S
+### Register Number: 212223240113
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
