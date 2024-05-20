@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/pavithran2046/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139334834/37cc57d9-1901-4fc7-af3b-d5ec59eda9a5)
+![image](https://github.com/pavithran2046/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139334834/30c20c63-683f-4afa-ae81-9f0c8d70ce77)
 
 
 ### Name: Pavithran S
